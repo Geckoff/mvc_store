@@ -1,0 +1,6 @@
+1. New graphic design.
+2. "Year of release" filter
+3. Class for working with Ajax
+4. Use static methods and properties where possible
+5. Use Interfaces.
+6. Set up cookies for user
